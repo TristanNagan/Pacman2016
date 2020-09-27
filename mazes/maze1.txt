@@ -1,0 +1,34 @@
+33 29
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x...........................x
+x.xx.xxxxxxx.xxx.xxxxxxx.xx.x
+x.xx.xxxxxxx.xxx.xxxxxxx.xx.x
+x.xx...xx....xxx....xx...xx.x
+x.xxxx.xx.xxxxxxxxx.xx.xxxx.x
+x.xxxx.xx.xxxxxxxxx.xx.xxxx.x
+x.xx.....................xx.x
+x.xx.xxxx.xxxxxxxxx.xxxx.xx.x
+x.xx.xxxx.xxxxxxxxx.xxxx.xx.x
+x......xx.xxxxxxxxx.xx......x
+x.xxxx.xx...........xx.xxxx.x
+x.xxxx.xx.xxx   xxx.xx.xxxx.x
+x...xx.xx.x       x.xx.xx...x
+xxx.xx....x       x....xx.xxx
+xxx.xx.xx.x 1234  x.xx.xx.xxx
+xxx.xx.xx.xxxxxxxxx.xx.xx.xxx
+xxx....xx...........xx....xxx
+xxx.xxxxx.xxxxxxxxx.xxxxx.xxx
+xxx.xxxxx.xxxxxxxxx.xxxxx.xxx
+xxx..........xxx..........xxx
+xxx.xxxxxxxx.xxx.xxxxxxxx.xxx
+xxx.xxxxxxxx.xxx.xxxxxxxx.xxx
+x.........xx..0..xx.........x
+x.xxxx.xx.xx.xxx.xx.xx.xxxx.x
+x.xxxx.xx.xx.xxx.xx.xx.xxxx.x
+x.xx...xx....xxx....xx...xx.x
+x.xx.xxxx.xxxxxxxxx.xxxx.xx.x
+x.xx.xxxx.xxxxxxxxx.xxxx.xx.x
+x...........................x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
