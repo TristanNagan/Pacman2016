@@ -1,0 +1,16 @@
+15 60
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x..........................................................x
+x.xxxxxx.........................xxxxxxxx................x.x
+x.x     x.......................x........................x.x
+x.x     x.......................x........................x.x
+x.x     x.......................x........................x.x
+x.xxxxxx...xxxxxx..xxxxxx.......x.....xxxx..xx1xx...xxxxxx.x
+x.x.......x     x.x     x.......x........x.x 234 x.x     x.x
+x.x.......x     x.x  0  ..xxxxx.x........x.x     x.x     x.x
+x.x........xxxxxx.x     x.......x........x.x     x.x     x.x
+x.x.............x..xxxxxx........xxxxxxxx...xxxxx...xxxxxx.x
+x..........................................................x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
